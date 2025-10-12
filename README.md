@@ -1,4 +1,4 @@
-# 🎨 Interactive Portfolio Generator
+# 🎨 Portpal - An Interactive Portfolio Generator
 
 An elegant and fully responsive **React.js-based portfolio generator** that enables users to instantly create, preview, and share professional portfolio websites. With an intuitive interface and smooth performance, it allows users to input their details, view real-time updates, and generate a personalized shareable portfolio link — all in one place.
 
