@@ -100,12 +100,10 @@ Follow these steps to set up the project locally:
 
 ## 📸 Demo Preview
 
-*(You can add your Netlify live link and a screenshot here later.)*
-
 Example:
 
-> 🔗 **Live Demo:** [https://your-portfolio.netlify.app](https://your-portfolio.netlify.app)
-> 🖼️ **Screenshot:** (insert image)
+> 🔗 **Live Demo:** [you can test here](https://portpal.netlify.app/)
+
 
 ---
 
