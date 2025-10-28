@@ -102,7 +102,7 @@ Follow these steps to set up the project locally:
 
 Example:
 
-> 🔗 **Live Demo:** [you can test here](https://portpal.netlify.app/)
+> 🔗 **Live Demo:** [https://portpal.netlify.app/](https://portpal.netlify.app/)
 
 
 ---
